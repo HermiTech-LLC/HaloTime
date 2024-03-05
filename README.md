@@ -1,5 +1,5 @@
 # HaloTime Notebook README
-[](https://github.com/HermiTech-LLC/HaloTime/blob/main/IMG_7730.png)
+![logo](https://github.com/HermiTech-LLC/HaloTime/blob/main/IMG_7730.png)
 
 ## Overview
 This notebook, "HaloTime.ipynb," is focused on exploring a modified version of the Schwarzschild metric in the context of white holes, a theoretical concept in general relativity. It is structured into several sections, each designed to build upon the previous ones, creating a comprehensive study of the topic.
